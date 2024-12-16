@@ -1,10 +1,10 @@
-Guess Game
+#Guess Game
 
-Overview
+##Overview
 
 The Guess Game is a simple console-based application where the player tries to guess a randomly generated number within a specified range. It is designed for learning and practicing programming concepts such as loops, conditional statements, and user input handling.
 
-How to Play
+##How to Play
 
 Start the Game: Run the program.
 
@@ -12,7 +12,7 @@ Game Instructions: The game will prompt you to guess a number within a predefine
 
 Enter Your Guess: Type your guess and press Enter.
 
-Feedback:
+##Feedback:
 
 If your guess is too high, you'll be prompted with "Too high! Try again."
 
@@ -22,7 +22,7 @@ If your guess is correct, the game congratulates you and displays the number of 
 
 Restart or Quit: You may be prompted to play again or quit.
 
-Features
+##Features
 
 Random number generation
 
@@ -32,7 +32,7 @@ Unlimited guessing attempts (customizable)
 
 Replay option
 
-Requirements
+##Requirements
 
 Programming Language: Java (or applicable language)
 
@@ -50,7 +50,7 @@ Navigate to the Project Directory:
 
 cd guess-game
 
-Compile the Program:
+##Compile the Program:
 
 javac GuessGame.java
 
